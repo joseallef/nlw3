@@ -1,0 +1,14 @@
+yarn typeorm migration:revert {reverter, alteração no banco de dados!}
+
+yarn typeorm migration:run   {cria o bando de dasos}
+
+{
+  "id": 4,
+  "name": "lar das meninas",
+  "latitude": -23.5340906,
+  "longitude": -46.365648,
+  "about": "sobre",
+  "instructions": "venha visitar",
+  "opening_hours": "Das 8:00 as 18:00",
+  "open_on_weekends": true
+}
